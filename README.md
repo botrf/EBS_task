@@ -29,7 +29,6 @@ Some steps before start work on tasks.
 3. Create super user ```python manage.py createsuperuser```
 4. Start the project ```python manage.py runserver```
 
-
-##[Docker_repositories](https://hub.docker.com/repository/docker/23oisjd/task)
+[Docker_repositories](https://hub.docker.com/repository/docker/23oisjd/task)
 
 
